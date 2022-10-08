@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-first.git/static/css/main.5ba0c2ce.css",
+    "main.js": "/react-first.git/static/js/main.2588d350.js",
+    "static/media/footer-bg.jpg": "/react-first.git/static/media/footer-bg.febd3b6ed34c89a8218a.jpg",
+    "static/media/DaysOne-Regular.woff2": "/react-first.git/static/media/DaysOne-Regular.a0d71b257989b6b2bbc6.woff2",
+    "static/media/GothamPro-Medium.woff2": "/react-first.git/static/media/GothamPro-Medium.475a0173f7022f67dc86.woff2",
+    "static/media/GothamPro-Regular.woff2": "/react-first.git/static/media/GothamPro-Regular.8f37cdeeb8c95ac37db3.woff2",
+    "static/media/GothamPro-Bold.woff2": "/react-first.git/static/media/GothamPro-Bold.ad94330d291c377feb86.woff2",
+    "static/media/GothamPro-Black.woff2": "/react-first.git/static/media/GothamPro-Black.39d3c1c39a14e1bb4e7f.woff2",
+    "static/media/logo.svg": "/react-first.git/static/media/logo.9f97377af91ecd809ba75d429bb99c6f.svg",
+    "static/media/widestudio.svg": "/react-first.git/static/media/widestudio.aeb4e755a7a690b8911aad7cd4606c5e.svg",
+    "static/media/icons.woff2": "/react-first.git/static/media/icons.131231034581303f59bf.woff2",
+    "static/media/loading.svg": "/react-first.git/static/media/loading.c275f927518cc0f91e09.svg",
+    "index.html": "/react-first.git/index.html",
+    "main.5ba0c2ce.css.map": "/react-first.git/static/css/main.5ba0c2ce.css.map",
+    "main.2588d350.js.map": "/react-first.git/static/js/main.2588d350.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ba0c2ce.css",
+    "static/js/main.2588d350.js"
+  ]
+}
