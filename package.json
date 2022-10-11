@@ -1,8 +1,8 @@
 {
   "name": "home.teza-react",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://vahromeevilya-widestudio.github.io/react-first.git",
+  "private": false,
+  "homepage": "https://vahromeevilya-widestudio.github.io/react-first/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
