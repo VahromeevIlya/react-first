@@ -1,12 +1,12 @@
 function About() {
 	return (
-		<section id="about" class="about">
-			<div class="about__container">
-				<div class="about__grid">
-					<div class="about__body">
-						<div class="about__container">
-							<h2 class="about__title _title">Про нас</h2>
-							<div class="about__text text">
+		<section id="about" className="about">
+			<div className="about__container">
+				<div className="about__grid">
+					<div className="about__body">
+						<div className="about__container">
+							<h2 className="about__title _title">Про нас</h2>
+							<div className="about__text text">
 								<p>
 									Наша компания профилируется на промышленных объектах,
 									а также делает большое количество проектов для
@@ -26,16 +26,16 @@ function About() {
 							</div>
 						</div>
 					</div>
-					<div class="about__achives">
-						<div class="about__achive">
-							<div class="about__achive-year">1997</div>
-							<div class="about__achive-title">
+					<div className="about__achives">
+						<div className="about__achive">
+							<div className="about__achive-year">1997</div>
+							<div className="about__achive-title">
 								год основания компании
 							</div>
 						</div>
-						<div class="about__achive">
-							<div class="about__achive-year">10+</div>
-							<div class="about__achive-title">
+						<div className="about__achive">
+							<div className="about__achive-year">10+</div>
+							<div className="about__achive-title">
 								лет стаж каждого сотрудника
 							</div>
 						</div>
